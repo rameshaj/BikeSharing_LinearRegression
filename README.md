@@ -35,8 +35,8 @@ The goal of this analysis is to understand the demand for shared bikes among the
   - Year.
   - Working Day.
   - Holiday.
-  - Season - Spring.
-  - Weathersit - light_preci - thunderstorm.
-  - weathersit - mist - few_clouds.
+  - Season 
+  - Weathersit 
+  - weathersit 
   - Windspeed.
 
